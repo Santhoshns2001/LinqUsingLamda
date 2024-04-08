@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\LamdaAndLinq\LamdaAndLinq\bin\Debug\net8.0\LamdaAndLinq.exe
+C:\Users\Admin\source\repos\LamdaAndLinq\LamdaAndLinq\bin\Debug\net8.0\LamdaAndLinq.deps.json
+C:\Users\Admin\source\repos\LamdaAndLinq\LamdaAndLinq\bin\Debug\net8.0\LamdaAndLinq.runtimeconfig.json
+C:\Users\Admin\source\repos\LamdaAndLinq\LamdaAndLinq\bin\Debug\net8.0\LamdaAndLinq.dll
+C:\Users\Admin\source\repos\LamdaAndLinq\LamdaAndLinq\bin\Debug\net8.0\LamdaAndLinq.pdb
+C:\Users\Admin\source\repos\LamdaAndLinq\LamdaAndLinq\obj\Debug\net8.0\LamdaAndLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\LamdaAndLinq\LamdaAndLinq\obj\Debug\net8.0\LamdaAndLinq.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\LamdaAndLinq\LamdaAndLinq\obj\Debug\net8.0\LamdaAndLinq.AssemblyInfo.cs
+C:\Users\Admin\source\repos\LamdaAndLinq\LamdaAndLinq\obj\Debug\net8.0\LamdaAndLinq.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\LamdaAndLinq\LamdaAndLinq\obj\Debug\net8.0\LamdaAndLinq.dll
+C:\Users\Admin\source\repos\LamdaAndLinq\LamdaAndLinq\obj\Debug\net8.0\refint\LamdaAndLinq.dll
+C:\Users\Admin\source\repos\LamdaAndLinq\LamdaAndLinq\obj\Debug\net8.0\LamdaAndLinq.pdb
+C:\Users\Admin\source\repos\LamdaAndLinq\LamdaAndLinq\obj\Debug\net8.0\LamdaAndLinq.genruntimeconfig.cache
+C:\Users\Admin\source\repos\LamdaAndLinq\LamdaAndLinq\obj\Debug\net8.0\ref\LamdaAndLinq.dll
